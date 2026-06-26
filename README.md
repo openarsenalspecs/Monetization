@@ -1,0 +1,86 @@
+# Open Arsenal Monetization Specifications
+
+The **Monetization & Creator Economy Specifications** define an open, interoperable framework for building the next generation of digital advertising, creator monetization, participation economies, and revenue-sharing platforms. Rather than relying on invasive tracking, proprietary algorithms, or closed ecosystems, these specifications leverage artificial intelligence, contextual understanding, digital provenance, verified identity, and transparent contribution tracking to create privacy-first systems that fairly reward creators, businesses, and communities. Each specification is designed as a modular building block that can be deployed independently or integrated into larger open-source ecosystems.
+
+All specifications are released as open standards under the **GNU Affero General Public License v3.0+ (AGPL-3.0+)**, encouraging collaboration, transparency, and community-driven innovation while ensuring improvements remain available to everyone. For organizations that wish to deploy these specifications without the AGPL attribution and reciprocity requirements, a **Specification Branding License** is available, providing the option to implement the specifications under separate commercial branding and attribution terms while continuing to support the long-term development of the open specification ecosystem.
+
+## Monetization Specs
+
+- **AdFusionAI**  
+[https://roxanneardary.com/adfusionai/](https://roxanneardary.com/adfusionai/)  
+AdFusionAI is a privacy-first, in-memory AI that analyzes text, images, and video to deliver context-aware ads based on original content. It operates under AGPLv3 licensing to promote open contribution and transparent monetization.  
+
+- **AdRelevance**  
+[https://roxanneardary.com/adrelevance/](https://roxanneardary.com/adrelevance/)  
+AdRelevance is a privacy-first contextual advertising engine that uses multimodal AI to understand text, images, and video. It delivers ads based on content meaning rather than user tracking.  
+
+- **AnchorID**  
+[https://roxanneardary.com/anchorid/](https://roxanneardary.com/anchorid/)  
+AnchorID enables identity-powered sponsorships where creators earn through product-aligned identity, tips, and performance-based brand campaigns. It functions in a privacy-preserving, KYC-compliant ecosystem.  
+
+- **ARCA**  
+[https://roxanneardary.com/arca/](https://roxanneardary.com/arca/)  
+ARCA is a per-user provenance and originality ledger that evaluates content novelty, contribution, and authenticity. It assesses relative to a creator’s own history before enabling monetization.  
+
+- **DividenCity**  
+[https://roxanneardary.com/dividencity/](https://roxanneardary.com/dividencity/)  
+DividenCity enables resource-backed Universal Basic Income by tracking revenue, public resource usage, and surplus budgets. It is licensed under AGPLv3.  
+
+- **Econexus**  
+[https://roxanneardary.com/econexus/](https://roxanneardary.com/econexus/)  
+Econexus is an AI-driven modular incentive economy engine. It transforms digital systems into contribution-based ecosystems where participation and engagement are directly rewarded.  
+
+- **InceptID**  
+[https://roxanneardary.com/inceptid/](https://roxanneardary.com/inceptid/)  
+InceptID is an open-source AI provenance and authenticity framework. It traces digital media back to its original source and verifies its transformation history across platforms.  
+
+- **ListingStream**  
+[https://roxanneardary.com/listingstream/](https://roxanneardary.com/listingstream/)  
+ListingStream is an open source, AGPL-3.0+ licensed visual commerce platform. It uses AI-assisted, human-in-the-loop workflows to create compliant, pixel-preserving product placements in photographs for real estate and other industries.  
+
+- **Open Ad Intelligence Network (OAIN)**  
+[https://roxanneardary.com/open-ad-intelligence-network/](https://roxanneardary.com/open-ad-intelligence-network/)  
+OAIN is an open-source AI-powered advertising intelligence system that enables automated ad creation, cross-platform tracking, predictive optimization, and transparent revenue sharing. It operates across contributors under AGPLv3.  
+
+- **OpenShare**  
+[https://roxanneardary.com/openshare/](https://roxanneardary.com/openshare/)  
+OpenShare is a platform helping subscription businesses adopt equitable profit-sharing with AI guidance. It is licensed under AGPLv3.  
+
+- **PixPay**  
+[https://roxanneardary.com/pixpay/](https://roxanneardary.com/pixpay/)  
+PixPay is a pay-per-share advertising platform that rewards users for sharing images and videos. It includes analytics and privacy protections under AGPLv3.  
+
+- **ProvenArt**  
+[https://roxanneardary.com/provenart/](https://roxanneardary.com/provenart/)  
+ProvenArt is a platform allowing creators to securely monetize verified content. It features fair revenue distribution under AGPLv3.  
+
+- **Quantara**  
+[https://roxanneardary.com/quantara/](https://roxanneardary.com/quantara/)  
+Quantara is a creator-first, open-source advertising platform. Businesses create campaigns and creators choose what they want to promote across digital channels.  
+
+- **YieldGrid**  
+[https://roxanneardary.com/yieldgrid/](https://roxanneardary.com/yieldgrid/)  
+YieldGrid is an open-source participation economy framework that uses standardized contribution tracking and AI-driven analysis. It ensures fair, transparent, and equal-pay-based rewards for verified user participation across any industry.
+
+---
+
+## License & Notice Requirements
+
+Open Arsenal Monetization Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal Monetization Specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
