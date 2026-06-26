@@ -5,7 +5,7 @@
 ### Contributors
 This file tracks contributors and their specific contributions to the project.
 
-- **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – [Date]  
+- **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – June 26, 2026  
 Created the repository for Monetization Specifications. Provided the Monetization specification suite.
 
 - **[Add other contributors here]** – [Date]  
