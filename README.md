@@ -69,7 +69,7 @@ PixPay is a pay-per-share advertising platform that rewards users for sharing im
 [https://roxanneardary.com/provenart/](https://roxanneardary.com/provenart/)  
 ProvenArt is a platform allowing creators to securely monetize verified content. It features fair revenue distribution under AGPLv3.  
 
-- **Quantara**  
+- [**Quantara Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/4b67154bd9b2dd8ce00314b578bea63b293e06cf/Quantara.md)    
 [https://roxanneardary.com/quantara/](https://roxanneardary.com/quantara/)  
 Quantara is a creator-first, open-source advertising platform. Businesses create campaigns and creators choose what they want to promote across digital channels.  
 
