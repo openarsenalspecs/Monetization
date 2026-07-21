@@ -53,7 +53,7 @@ InceptID is an open-source AI provenance and authenticity framework. It traces d
 [https://roxanneardary.com/listingstream/](https://roxanneardary.com/listingstream/)  
 ListingStream is an open source, AGPL-3.0+ licensed visual commerce platform. It uses AI-assisted, human-in-the-loop workflows to create compliant, pixel-preserving product placements in photographs for real estate and other industries.  
 
-- **Open Ad Intelligence Network (OAIN)**  
+- [**Open Ad Intelligence Network (OAIN) Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/823204666b4d43a903b77dd4665d75c63f178bf2/Open%20Ad%20Intelligence%20Network.md)    
 [https://roxanneardary.com/open-ad-intelligence-network/](https://roxanneardary.com/open-ad-intelligence-network/)  
 OAIN is an open-source AI-powered advertising intelligence system that enables automated ad creation, cross-platform tracking, predictive optimization, and transparent revenue sharing. It operates across contributors under AGPLv3.  
 
