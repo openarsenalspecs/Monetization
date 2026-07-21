@@ -73,7 +73,7 @@ ProvenArt is a platform allowing creators to securely monetize verified content.
 [https://roxanneardary.com/quantara/](https://roxanneardary.com/quantara/)  
 Quantara is a creator-first, open-source advertising platform. Businesses create campaigns and creators choose what they want to promote across digital channels.  
 
-- **YieldGrid**  
+- [**YieldGrid**](https://github.com/openarsenalspecs/Monetization/blob/1fe869b1665913571d1e814e15b715eb483eff28/YieldGrid.md)  
 [https://roxanneardary.com/yieldgrid/](https://roxanneardary.com/yieldgrid/)  
 YieldGrid is an open-source participation economy framework that uses standardized contribution tracking and AI-driven analysis. It ensures fair, transparent, and equal-pay-based rewards for verified user participation across any industry.
 
