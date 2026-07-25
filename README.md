@@ -65,7 +65,7 @@ OpenShare is a platform helping subscription businesses adopt equitable profit-s
 [https://roxanneardary.com/pixpay/](https://roxanneardary.com/pixpay/)  
 PixPay is a pay-per-share advertising platform that rewards users for sharing images and videos. It includes analytics and privacy protections under AGPLv3.  
 
-- **ProvenArt**  
+- [**ProvenArt Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/9524c9971cf4745e40749c9b0ab624140e79e14b/ProvenArt.md)    
 [https://roxanneardary.com/provenart/](https://roxanneardary.com/provenart/)  
 ProvenArt is a platform allowing creators to securely monetize verified content. It features fair revenue distribution under AGPLv3.  
 
