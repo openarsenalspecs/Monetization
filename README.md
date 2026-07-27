@@ -37,7 +37,7 @@ AnchorID enables identity-powered sponsorships where creators earn through produ
 [https://roxanneardary.com/arca/](https://roxanneardary.com/arca/)  
 ARCA is a per-user provenance and originality ledger that evaluates content novelty, contribution, and authenticity. It assesses relative to a creator’s own history before enabling monetization.  
 
-- **DividenCity**  
+- [**DividenCity Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/fcc495bf6fe070d69793406026e8ae13d36b5081/DividenCity.md)    
 [https://roxanneardary.com/dividencity/](https://roxanneardary.com/dividencity/)  
 DividenCity enables resource-backed Universal Basic Income by tracking revenue, public resource usage, and surplus budgets. It is licensed under AGPLv3.  
 
