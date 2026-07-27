@@ -33,7 +33,7 @@ AdRelevance is a privacy-first contextual advertising engine that uses multimoda
 [https://roxanneardary.com/anchorid/](https://roxanneardary.com/anchorid/)  
 AnchorID enables identity-powered sponsorships where creators earn through product-aligned identity, tips, and performance-based brand campaigns. It functions in a privacy-preserving, KYC-compliant ecosystem.  
 
-- **ARCA**  
+- [**ARCA Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/1bd62c4a3f38c869d1554673af09f107f1cb0188/ARCA.md)    
 [https://roxanneardary.com/arca/](https://roxanneardary.com/arca/)  
 ARCA is a per-user provenance and originality ledger that evaluates content novelty, contribution, and authenticity. It assesses relative to a creator’s own history before enabling monetization.  
 
