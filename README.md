@@ -57,7 +57,7 @@ ListingStream is an open source, AGPL-3.0+ licensed visual commerce platform. It
 [https://roxanneardary.com/open-ad-intelligence-network/](https://roxanneardary.com/open-ad-intelligence-network/)  
 OAIN is an open-source AI-powered advertising intelligence system that enables automated ad creation, cross-platform tracking, predictive optimization, and transparent revenue sharing. It operates across contributors under AGPLv3.  
 
-- **OpenShare**  
+- [**OpenShare Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/a6ee16fce1893e3d38ca98f0d053adc2929dd4d5/OpenShare.md)    
 [https://roxanneardary.com/openshare/](https://roxanneardary.com/openshare/)  
 OpenShare is a platform helping subscription businesses adopt equitable profit-sharing with AI guidance. It is licensed under AGPLv3.  
 
