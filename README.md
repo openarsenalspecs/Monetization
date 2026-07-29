@@ -21,7 +21,7 @@ All specifications are released as open standards under the **GNU Affero General
 
 ## Monetization Specs
 
-- **AdFusionAI**  
+- [**AdFusionAI Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/8d2d248f99dcfe6bf915518a6e0a4c3d932726b7/AdFusionAI.md)    
 [https://roxanneardary.com/adfusionai/](https://roxanneardary.com/adfusionai/)  
 AdFusionAI is a privacy-first, in-memory AI that analyzes text, images, and video to deliver context-aware ads based on original content. It operates under AGPLv3 licensing to promote open contribution and transparent monetization.  
 
