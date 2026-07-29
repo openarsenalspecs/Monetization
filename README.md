@@ -29,7 +29,7 @@ AdFusionAI is a privacy-first, in-memory AI that analyzes text, images, and vide
 [https://roxanneardary.com/adrelevance/](https://roxanneardary.com/adrelevance/)  
 AdRelevance is a privacy-first contextual advertising engine that uses multimodal AI to understand text, images, and video. It delivers ads based on content meaning rather than user tracking.  
 
-- **AnchorID**  
+- [**AnchorID Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/01c3642dfc782496ea7441c2dde962a997ea971e/AnchorID.md)    
 [https://roxanneardary.com/anchorid/](https://roxanneardary.com/anchorid/)  
 AnchorID enables identity-powered sponsorships where creators earn through product-aligned identity, tips, and performance-based brand campaigns. It functions in a privacy-preserving, KYC-compliant ecosystem.  
 
