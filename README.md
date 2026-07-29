@@ -49,7 +49,7 @@ Econexus is an AI-driven modular incentive economy engine. It transforms digital
 [https://roxanneardary.com/inceptid/](https://roxanneardary.com/inceptid/)  
 InceptID is an open-source AI provenance and authenticity framework. It traces digital media back to its original source and verifies its transformation history across platforms.  
 
-- **ListingStream**  
+- [**ListingStream Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/931746c1b56b93471d1634a93a66a674d83a2a37/ListingStream.md)    
 [https://roxanneardary.com/listingstream/](https://roxanneardary.com/listingstream/)  
 ListingStream is an open source, AGPL-3.0+ licensed visual commerce platform. It uses AI-assisted, human-in-the-loop workflows to create compliant, pixel-preserving product placements in photographs for real estate and other industries.  
 
