@@ -61,7 +61,7 @@ OAIN is an open-source AI-powered advertising intelligence system that enables a
 [https://roxanneardary.com/openshare/](https://roxanneardary.com/openshare/)  
 OpenShare is a platform helping subscription businesses adopt equitable profit-sharing with AI guidance. It is licensed under AGPLv3.  
 
-- **PixPay**  
+- [**PixPay Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/9e68179c3d3ca596ac3f0cf7d1458b6e833c0de9/PixPay.md)    
 [https://roxanneardary.com/pixpay/](https://roxanneardary.com/pixpay/)  
 PixPay is a pay-per-share advertising platform that rewards users for sharing images and videos. It includes analytics and privacy protections under AGPLv3.  
 
