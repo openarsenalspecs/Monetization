@@ -45,7 +45,7 @@ DividenCity enables resource-backed Universal Basic Income by tracking revenue, 
 [https://roxanneardary.com/econexus/](https://roxanneardary.com/econexus/)  
 Econexus is an AI-driven modular incentive economy engine. It transforms digital systems into contribution-based ecosystems where participation and engagement are directly rewarded.  
 
-- **InceptID**  
+- [**InceptID Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/61ebec428f1ec8cbc5691d90bb525bd56ff72432/InceptID.md)    
 [https://roxanneardary.com/inceptid/](https://roxanneardary.com/inceptid/)  
 InceptID is an open-source AI provenance and authenticity framework. It traces digital media back to its original source and verifies its transformation history across platforms.  
 
