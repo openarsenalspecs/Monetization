@@ -22,90 +22,180 @@ At its core, Econexus focuses on:
 
 ---
 
-## Core AI Modules
+## Core Capabilities
 
-### Business Deconstructor Agent
-Breaks down any game or business model into:
-- revenue streams
-- cost structures
-- user engagement loops
-- monetization pressure points
-
-Identifies how value is currently extracted and where it can be rebalanced toward users.
+Econexus is powered by a collection of AI-driven economic intelligence and management modules that analyze, redesign, optimize, and govern digital economies. These capabilities enable games, platforms, and businesses to transition from traditional monetization models into contribution-based ecosystems where participation, engagement, and meaningful user contributions create measurable value.
 
 ---
 
-### Incentive Mapper Agent
-Maps behavioral loops such as:
-- gameplay cycles
-- engagement systems
-- grind mechanics
-- retention strategies
+## Business Deconstructor Agent
 
-Rewrites them into contribution-based reward loops.
+The Business Deconstructor Agent analyzes existing games, platforms, and business models to identify how value currently flows through the system.
 
----
+### Capabilities:
+- Maps existing revenue streams
+- Analyzes cost structures
+- Identifies user engagement loops
+- Detects monetization pressure points
+- Evaluates current value extraction models
+- Identifies opportunities to rebalance value toward users and contributors
 
-### Reverse Economy Generator
-Transforms traditional pay-to-play or paywalled systems into:
-- participation-based earning models
-- contribution-driven progression systems
-- reward-sharing economies
+The agent provides a complete economic overview and identifies areas where existing systems can be transformed into more participatory models.
 
 ---
 
-### Simulation & Stability Engine
-Simulates economy behavior over time:
-- reward inflation risk
-- exploitation scenarios
-- bot farming pressure
-- long-term sustainability
+## Incentive Mapper Agent
 
-Ensures systems remain stable under real-world usage conditions.
+The Incentive Mapper Agent analyzes user behavior and identifies the mechanisms that drive participation.
 
----
+### Capabilities:
+- Maps gameplay cycles
+- Evaluates engagement systems
+- Analyzes grind mechanics
+- Studies retention strategies
+- Identifies high-value user behaviors
+- Converts behavioral patterns into contribution opportunities
 
-### Sponsor Matching Agent
-Connects systems with external funding sources:
-- advertisers
-- brands
-- performance-based sponsors
-- engagement-driven campaigns
-
-Enables external capital injection into reward pools.
+The agent transforms existing engagement systems into contribution-based reward loops aligned with ecosystem growth.
 
 ---
 
-### Contribution Ledger
-A structured tracking system that records:
-- verified user actions
-- contribution types
-- reputation scoring
-- reward eligibility
+## Reverse Economy Generator
 
-Serves as the economic source of truth.
+The Reverse Economy Generator redesigns traditional pay-to-play, subscription, or advertising-driven systems into participation-focused economic models.
 
----
+### Capabilities:
+- Creates participation-based earning models
+- Designs contribution-driven progression systems
+- Generates reward-sharing economies
+- Develops alternative monetization strategies
+- Converts users from consumers into ecosystem participants
 
-### Reward Distribution Engine
-Handles allocation of rewards:
-- credits
-- payouts (if enabled)
-- access privileges
-- tiered reward systems
-- pooled distributions
-
-Supports both real-time and scheduled payouts.
+This module enables systems to shift from extracting value from users toward rewarding users for creating value.
 
 ---
 
-## Modular Economy System
+## Simulation & Stability Engine
 
-Econexus is built as a plug-in incentive framework.
+The Simulation & Stability Engine evaluates proposed economic models before and after deployment.
+
+### Capabilities:
+- Models reward inflation risks
+- Tests exploitation scenarios
+- Evaluates bot farming pressure
+- Simulates user behavior patterns
+- Measures long-term sustainability
+- Identifies economic instability risks
+
+This ensures reward systems remain balanced, sustainable, and resilient under real-world usage.
 
 ---
 
-### 📦 Bounty System Module
+## Sponsor Matching Agent
+
+The Sponsor Matching Agent connects digital economies with external revenue sources capable of funding participation rewards.
+
+### Capabilities:
+- Identifies advertiser opportunities
+- Matches brands with relevant communities
+- Supports performance-based sponsorships
+- Creates engagement-driven campaigns
+- Enables sponsor-funded reward pools
+- Measures sponsor value generation
+
+This module introduces external capital into reward ecosystems while aligning sponsor objectives with user participation.
+
+---
+
+## Contribution Ledger
+
+The Contribution Ledger provides a structured and transparent record of ecosystem participation.
+
+### Capabilities:
+- Tracks verified user actions
+- Categorizes contribution types
+- Maintains contribution history
+- Provides reputation scoring inputs
+- Determines reward eligibility
+- Records economic activity
+
+The ledger serves as the economic source of truth for measuring participation and distributing value.
+
+---
+
+## Reward Distribution Engine
+
+The Reward Distribution Engine manages how earned value is allocated throughout the ecosystem.
+
+### Capabilities:
+- Supports digital credits
+- Enables configurable payouts
+- Provides access-based rewards
+- Supports tiered reward systems
+- Manages pooled distributions
+- Enables real-time or scheduled reward delivery
+
+This module ensures rewards are distributed according to transparent, configurable contribution rules.
+
+---
+
+## AI Economy Optimization Agent
+
+The AI Economy Optimization Agent continuously monitors, analyzes, and improves deployed economic systems.
+
+### Capabilities:
+- Monitors economic health metrics
+- Identifies inefficient reward structures
+- Detects declining engagement patterns
+- Recommends incentive adjustments
+- Optimizes balance between users, contributors, sponsors, and operators
+- Identifies new contribution opportunities
+- Evaluates proposed changes through simulation
+
+This agent enables Econexus economies to continuously adapt as market conditions, user behavior, and ecosystem goals evolve.
+
+---
+
+## Reward Economy Governance Module
+
+The Reward Economy Governance Module provides transparent management and oversight of economic rules and incentive structures.
+
+### Capabilities:
+- Defines reward policies
+- Manages economic parameters
+- Controls reward configuration changes
+- Supports stakeholder approval workflows
+- Enables community governance models
+- Maintains economic change history
+- Provides transparency into reward allocation decisions
+
+This module ensures economic systems remain accountable, adaptable, and aligned with ecosystem participants.
+
+---
+
+## Multi-Economy Management Module
+
+The Multi-Economy Management Module enables Econexus to manage interconnected economies across multiple platforms and environments.
+
+### Capabilities:
+- Supports multiple independent economies
+- Manages cross-platform contribution tracking
+- Enables shared reputation systems
+- Supports economy interoperability
+- Coordinates connected games, businesses, and communities
+- Enables cross-system incentives
+- Tracks relationships between economic environments
+
+This module allows Econexus to scale from individual applications into networks of interconnected participation-based economies.
+
+---
+
+## Optional Plugin Modules
+Exonexus supports modular expansion through optional plugins.
+
+---
+
+### 📦 [Bounty System Module](https://gitlab.com/Roxanne_Ardary/econexus/-/blob/b0fd40cf8414a610eb6dc1165f25e89d42923231/Bounty%20System%20Module.md)  
 A configurable reward system where system owners define payouts for specific contributions.
 
 **Features:**
@@ -116,7 +206,7 @@ A configurable reward system where system owners define payouts for specific con
 
 ---
 
-### 📦 Contribution Mining Module
+### 📦 [Contribution Mining Module](https://gitlab.com/Roxanne_Ardary/econexus/-/blob/e231caf94d0790269897c131f7e9a5fcce1de2f4/Contribution%20Mining.md)  
 Rewards users for ecosystem support activities:
 - moderation
 - testing and QA
@@ -128,7 +218,7 @@ Transforms maintenance into economic participation.
 
 ---
 
-### 📦 Playable Ads Module
+### 📦 [Playable Ads Module](https://gitlab.com/Roxanne_Ardary/econexus/-/blob/ae75e519eb34b899fe20407d6788f3ee076cf0e4/Playable%20Ads.md)  
 Replaces passive advertising with interactive participation:
 - mission-based ad experiences
 - reward-for-engagement advertising
@@ -136,7 +226,7 @@ Replaces passive advertising with interactive participation:
 
 ---
 
-### 📦 Marketplace Value Layer
+### 📦 [Marketplace Value Layer](https://gitlab.com/Roxanne_Ardary/econexus/-/blob/a5f81cf02f52835adf7959e2f5b392bc4bb3083c/Marketplace%20Value%20Layer.md)  
 Enables internal economies:
 - asset trading systems
 - creator marketplaces
@@ -147,7 +237,7 @@ Econexus collects micro-fees from transactions instead of upfront paywalls.
 
 ---
 
-### 📦 Dynamic Revenue Sharing Module
+### 📦 [Dynamic Revenue Sharing Module](https://gitlab.com/Roxanne_Ardary/econexus/-/blob/987069a749f6ff0333bac19cd03416ef5b0bf9ff/Dynamic%20Revenue%20Sharing.md)  
 Distributes system revenue across:
 - active users
 - contributors
@@ -159,7 +249,7 @@ Allocation adjusts dynamically based on system activity and engagement.
 
 ---
 
-## Anti-Abuse & Stability Systems
+## [Anti-Abuse & Stability Systems](https://gitlab.com/Roxanne_Ardary/econexus/-/blob/860cb6da7efa932517f3acc4b90ae2f85d78a01a/AntiAbuse%20Stability%20Systems.md)  
 
 Econexus includes built-in protections to maintain economic integrity:
 
@@ -172,7 +262,7 @@ Econexus includes built-in protections to maintain economic integrity:
 
 ---
 
-## Economy Intelligence Layer
+## [Economy Intelligence Layer](https://gitlab.com/Roxanne_Ardary/econexus/-/blob/4589de100a5057fc893cbb308205b3e172053d39/Economy%20Intelligence%20Layer.md)  
 
 Provides analytics and insight into system performance:
 
@@ -238,5 +328,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, see the AGPL-3.0+ license and the project's `notice.md` file.
-
----
