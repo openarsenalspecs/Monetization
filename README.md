@@ -25,7 +25,7 @@ All specifications are released as open standards under the **GNU Affero General
 [https://roxanneardary.com/adfusionai/](https://roxanneardary.com/adfusionai/)  
 AdFusionAI is a privacy-first, in-memory AI that analyzes text, images, and video to deliver context-aware ads based on original content. It operates under AGPLv3 licensing to promote open contribution and transparent monetization.  
 
-- [**AdRelevance Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/3967144b16f33c35f629c4f71b1b3259efa256e4/AdRelevance.md)    
+- [**AdRelevance Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/be261ab56b866ef8e5ef5c1ce636be52e0657dc5/AdRelevance.md)     
 [https://roxanneardary.com/adrelevance/](https://roxanneardary.com/adrelevance/)  
 AdRelevance is a privacy-first contextual advertising engine that uses multimodal AI to understand text, images, and video. It delivers ads based on content meaning rather than user tracking.  
 
