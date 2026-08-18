@@ -1,6 +1,8 @@
 # Econexus
-
 **Fair rewards for real contribution.**
+- HTML Mirror:  [https://roxanneardary.com/econexus-specification/](https://roxanneardary.com/econexus-specification/)  
+
+---
 
 Econexus is a modular AI-driven incentive economy engine designed to transform pay-to-play systems into contribution-based economies where participation, engagement, and value creation are directly rewarded.
 
@@ -28,7 +30,8 @@ Econexus is powered by a collection of AI-driven economic intelligence and manag
 
 ---
 
-## Business Deconstructor Agent
+## [Business Deconstructor Agent Module Specification](https://gitlab.com/Roxanne_Ardary/econexus/-/blob/80bcc1c0c4552c3053491ce8459325b2bba7eb2f/Business%20Deconstructor%20Agent.md)  
+- HTML Mirror:  [https://roxanneardary.com/business-deconstructor-agent-specification/](https://roxanneardary.com/business-deconstructor-agent-specification/)  
 
 The Business Deconstructor Agent analyzes existing games, platforms, and business models to identify how value currently flows through the system.
 
