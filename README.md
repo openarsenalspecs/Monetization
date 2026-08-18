@@ -41,7 +41,7 @@ ARCA is a per-user provenance and originality ledger that evaluates content nove
 [https://roxanneardary.com/dividencity/](https://roxanneardary.com/dividencity/)  
 DividenCity enables resource-backed Universal Basic Income by tracking revenue, public resource usage, and surplus budgets. It is licensed under AGPLv3.  
 
-- [**Econexus Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/c60f6179d18a0f72de92321ecf3ad668ba048918/Econexus.md)    
+- [**Econexus Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/19a043748039254c50def01a38047f911d04043b/Econexus.md)  
 [https://roxanneardary.com/econexus/](https://roxanneardary.com/econexus/)  
 Econexus is an AI-driven modular incentive economy engine. It transforms digital systems into contribution-based ecosystems where participation and engagement are directly rewarded.  
 
